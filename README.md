@@ -2,21 +2,18 @@
 <h1 align="center">Hi there, I'm de9pk 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=I+am+a+Editor;I+am+a+Data+Scientist;I+am+ml+Enthusiast;I+am+AI+Enthusiast" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fr34k0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=550&lines=DevOps+Engineer;Specializing+in+Data+Engineering;I+Build+%26+Automate+Data+Pipelines;Infra-as-Code+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🧑‍🎓 I'm Deepak Kumavat from Udaipur — a CSE AI ML IBM undergrad at **JECRC University**.   
-🔬 Passionate about **Data Science**, **Machine Learning**, and **Natural Language Processing**  
-📱 Experienced in Power BI 
-🎮 Game enthusiast 
+🧑‍🎓 I'm Deepak Kumavat from Udaipur — a CSE AI ML IBM undergrad at **JECRC University**.  
+⚙️ I'm a **DevOps Engineer** with a specialization in **Data Engineering** — I build the pipelines, and the infrastructure they run on  
+🔁 Focused on **CI/CD**, **Infrastructure as Code**, and automating data workflows end-to-end  
+📱 Experienced in Power BI  
+🎮 Game enthusiast  
 💻 Project-driven learner with a bias toward action and exploration  
 
 ---
@@ -25,13 +22,35 @@
 
 ### 🧠 Programming Languages
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-7F52FF?style=for-the-badge&logo=sql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  
+</p>
+
+### ⚙️ DevOps Core
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+### 🗃️ Data Engineering Specialization
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 ### 🌐 Tools & IDEs
@@ -46,34 +65,18 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
-
-### 🤖 ML | DL | NLP
-<p>
-  <img src="https://img.shields.io/badge/Transformers-FFB6C1?style=for-the-badge&logo=HuggingFace&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  
-
 ### 📡 APIs
 <p>
   <img src="https://img.shields.io/badge/APIs-FF6F00?style=for-the-badge&logo=swagger&logoColor=white"/>
 </p>
 
-
 ---
 
-## � Highlight Projects
+## 🏆 Highlight Projects
 
-⚖️ <a href="https://github.com/FR34KY-CODER/Legal-Case-Classification-and-Summarization">Legal Case Classifier & Summariser  </a>
-A deep NLP system utilizing the **T5 Transformer** to classify legal case documents and generate concise, accurate summaries.
+🏔️ <a href="https://github.com/de9pk/sih-rockfall-deployed">Rockfall Risk Assessment & Alert System  </a>
+A real-time risk-prediction pipeline built with a **DevOps-first approach to data engineering** — live data ingestion, an ensemble model, automated **SMS alerting (Twilio)**, and a **Streamlit** dashboard, all deployed and monitored as a continuously running pipeline for mining safety operations.
 
-📱 <a href="https://github.com/FR34KY-CODER/KotlinFirebase-Social-Media-Application">Kotlin-Based Android Apps  </a>
-Designed multiple real-world applications using **Jetpack Compose**, **MVVM architecture**, and **Firebase**. Focused on clean UI/UX and real-time interactivity.
-
-🎮 <a href="https://github.com/FR34KY-CODER/RoadRash-Game-Project">2D Game Development  </a>
-Led the **Game Dev vertical at GDSC LNMIIT**, mentoring juniors while building interactive 2D games with **Godot** and **Unity**, combining narrative, design, and physics.
 
 <p align= center><img src ="https://camo.githubusercontent.com/ac444755f650fbaf9bf582931753704ff71f122c1009d849fda5c1345b2b2081/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652670617573653d3130303026636f6c6f723d3030464630302663656e7465723d74727565267643656e7465723d747275652677696474683d343335266c696e65733d446562756767696e672b7468652b756e6976657273652e2e2e3b436f6d70696c696e672b636f736d69632b636f64652e2e2e3b44656372797074696e672b616c69656e2b7472616e736d697373696f6e732e2e2e3b4c6f6164696e672b6e6578742b616476656e747572652e2e2e"></p>
 
@@ -82,12 +85,12 @@ Led the **Game Dev vertical at GDSC LNMIIT**, mentoring juniors while building i
 ## 📜 Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FR34KY-CODER&theme=midnight-purple" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=de9pk&theme=tokyonight" />
   <img src="https://github.com/FR34KY-CODER/FR34KY-CODER/blob/main/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e486c70655855315a6d787363335673613249775a326c69625864694f47747265486c335a6e45324f575a7262335a32614856724d795a6c634431324d563970626e526c636d35686.gif?raw=true" width="200px" height="200px" border = 2px solid #000/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FR34KY-CODER&theme=midnight-purple&show_icons=true&rank_icon=github">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FR34KY-CODER&layout=compact&theme=midnight-purple">
+  <img src="https://github-readme-stats.vercel.app/api?username=de9pk&theme=tokyonight&show_icons=true&rank_icon=github">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=de9pk&layout=compact&theme=tokyonight">
 </p>
 
 ---
@@ -95,39 +98,26 @@ Led the **Game Dev vertical at GDSC LNMIIT**, mentoring juniors while building i
 
 <table width="100%" align="center">
   <tr>
-    <td align="center" width="20%">
+    <td align="center" width="33%">
       <a href="https://mail.google.com/mail/u/0/?fs=1&to=deepakkumavat910@gmail.com&tf=cm" target="_blank">
         <img src="https://img.icons8.com/color/96/gmail-new.png" height="60" alt="Gmail"/><br/>
         <sub><img src="https://img.shields.io/badge/Email-ff4c1c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></sub>
       </a>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="33%">
       <a href="https://www.linkedin.com/in/deepak-kumavat-a13872288/" target="_blank">
         <img src="https://img.icons8.com/color/96/linkedin.png" height="60" alt="LinkedIn"/><br/>
         <sub><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></sub>
       </a>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="33%">
       <a href="https://github.com/de9pk" target="_blank">
         <img src="https://img.icons8.com/ios-filled/100/ffffff/github.png" height="60" alt="GitHub"/><br/>
         <sub><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></sub>
       </a>
     </td>
-    <td align="center" width="20%">
-      <a href="https://fr34ky-coder.github.io/" target="_blank">
-        <img src="https://github.com/FR34KY-CODER/FR34KY-CODER/blob/main/FR34K.png?raw=true" height="60" alt="Portfolio"/><br/>
-        <sub><img src="https://img.shields.io/badge/Portfolio-02075D?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio Badge"/></sub>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://medium.com/@fr34ky-coder" target="_blank">
-        <img src="https://img.icons8.com/color/96/medium-logo.png" height="60" alt="Medium"/><br/>
-        <sub><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/></sub>
-      </a>
-    </td>
   </tr>
 </table>
-
 
 ---
 
